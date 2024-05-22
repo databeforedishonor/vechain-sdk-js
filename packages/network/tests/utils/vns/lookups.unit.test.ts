@@ -13,7 +13,7 @@ import {
 } from '@jest/globals';
 import { ThorClient, vnsUtils } from '../../../src';
 import { testnetUrl } from '../../fixture';
-// import { addressUtils, TESTNET_NETWORK } from '../../../../core';
+// import { addressUtils, TESTNET_NETWORK } from '@vechain/sdk-core';
 
 /**
  * vet.domains Name Service Utilities

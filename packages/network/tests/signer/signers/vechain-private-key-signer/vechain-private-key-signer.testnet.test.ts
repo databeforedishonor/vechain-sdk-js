@@ -19,7 +19,7 @@ import {
     coder,
     type FunctionFragment,
     TransactionHandler
-} from '../../../../../core';
+} from '../@vechain/sdk-core';
 import { signTransactionTestCases } from './fixture';
 
 /**

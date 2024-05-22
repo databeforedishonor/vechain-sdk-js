@@ -18,7 +18,7 @@ import {
     vnsUtils
 } from '../../../../src/';
 import { testnetUrl } from '../../../fixture';
-import { addressUtils } from '../../../../../core';
+import { addressUtils } from '../@vechain/sdk-core';
 import { populateCallTestCases, populateCallTestCasesAccount } from './fixture';
 
 /**

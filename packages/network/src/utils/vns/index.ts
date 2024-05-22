@@ -4,7 +4,7 @@ import {
     addressUtils,
     ZERO_ADDRESS,
     type FunctionFragment
-} from '../../../../core';
+} from '@vechain/sdk-core';
 
 /**
  * Returns a single address or null for a name resolved at vet.domains
